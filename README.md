@@ -8,6 +8,5 @@ GitHub tutorial
 
 
 # This is my first Github tutorial
-
-        
+![alt text](https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png)
                                                                            
